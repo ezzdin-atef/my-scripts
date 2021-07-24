@@ -1,0 +1,26 @@
+{
+  "name": "my-scripts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "samaup": "node src/samaup.js -u"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ezzdin-atef/my-scripts.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ezzdin-atef/my-scripts/issues"
+  },
+  "homepage": "https://github.com/ezzdin-atef/my-scripts#readme",
+  "dependencies": {
+    "chalk": "^4.1.1",
+    "clipboardy": "^2.3.0",
+    "commander": "^8.0.0",
+    "puppeteer-core": "^10.1.0"
+  }
+}
